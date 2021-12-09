@@ -16,6 +16,13 @@ This work is implemented based on the open-access dataset of a published paper, 
 A. Ledergerber and R. D’Andrea, “A multi-static radar network with ultra-wideband radio-equipped devices,” Sensors, vol. 20, no. 6, pp. 1–20, Mar 2020  
 The labrotory-based experimental data is avalialable
 https://www.research-collection.ethz.ch/handle/20.500.11850/397625  
-In the code file, you can find the generated (resampled) CIR and variance series of the background and dynamic scenarios and the well-trained CNN models. You are also encouraged to process the original dataset and develop your own algorithms.
+In the code file, you can find the generated (resampled) CIR and variance series of the background and dynamic scenarios and the well-trained CNN models.  
+Note that the required 'Dyn_CIR_VAR.mat' is not included in the folder as it is quite large. If you are interested in this work and need the dataset, please contact me  
+
+
+email: Chenglong[dot]Li[at]UGent[dot]be  
+
+
+You are also encouraged to process the original dataset and develop your own algorithms.
 
  
