@@ -25,7 +25,7 @@ In the code file, you can find the generated (resampled) CIR and variance series
 Note that the required 'Dyn_CIR_VAR.mat' is not included in the folder as it is quite large. If you are interested in this work and need the dataset, please contact me  
 
 ```bash
-email: Chenglong[dot]Li[at]UGent[dot]be  
+Chenglong[dot]Li[at]UGent[dot]be  
 ```
 
 You are also encouraged to process the original dataset and develop your own algorithms.
