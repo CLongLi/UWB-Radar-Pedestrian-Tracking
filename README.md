@@ -11,7 +11,7 @@ If you use or refer to the codes, please cite the following paper,
       primaryClass={eess.SP}  
 } 
 # Description
-The whole dataset were collected a long single trajectory. The codes file contains the three-case consecutive trajectory partitioning. The baisc idea of this work is to estimated the reflected ToF from the accumulated channel impulse response (CIR) or the corresponding variance based on two proposed CNN models. Then a particle filter algorithm is adopted for the pedestrian tracking.  
+The whole dataset were collected along a long single trajectory. The codes file contains the three-case consecutive trajectory partitioning. The baisc idea of this work is to estimated the reflected ToFs from the accumulated channel impulse response (CIR) or the corresponding variance based on two proposed CNN models. Then a particle filter algorithm is adopted for the pedestrian tracking.  
 This work is implemented based on the open-access dataset of a published paper, you can find more details about the dataset via the paper or the link below  
 A. Ledergerber and R. D’Andrea, “A multi-static radar network with ultra-wideband radio-equipped devices,” Sensors, vol. 20, no. 6, pp. 1–20, Mar 2020  
 The labrotory-based experimental data is avalialable
