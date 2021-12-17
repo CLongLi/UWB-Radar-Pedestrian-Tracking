@@ -12,7 +12,7 @@ If you use or refer to the codes, please cite the following paper,
 } 
 ```
 ## Description
-The whole dataset were collected along a long single trajectory. The codes file contains the three-case consecutive trajectory partitioning for training ans predicting. The baisc idea of this work is to estimated the reflected ToFs from the accumulated channel impulse response (CIR) or the corresponding variance based on two proposed CNN models. Then a particle filter algorithm is adopted for the pedestrian tracking. Get access to more technical details via the [paper](https://arxiv.org/pdf/2109.12856.pdf).  
+The whole dataset were collected along a long single trajectory. The codes file contains the three-case consecutive trajectory partitioning for training and predicting. The baisc idea of this work is to estimated the reflected ToFs from the accumulated channel impulse response (CIR) or the corresponding variance based on two proposed CNN models. Then a particle filter algorithm is adopted for the pedestrian tracking. Get access to more technical details via the [paper](https://arxiv.org/pdf/2109.12856.pdf).  
 This work is implemented based on the open-access dataset of a published paper, you can find more details about the dataset via the paper or the link below  
 
 ```bash
