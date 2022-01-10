@@ -22,7 +22,7 @@ A. Ledergerber and R. D’Andrea, “A multi-static radar network with ultra-wid
 The labrotory-based experimental data is avalialable
 https://www.research-collection.ethz.ch/handle/20.500.11850/397625  
 In the code file, you can find the generated (resampled) CIR and variance series of the background and dynamic scenarios and the well-trained CNN models.  
-Note that the required 'Dyn_CIR_VAR.mat' is not included in the folder as it is quite large. If you are interested in this work and need the dataset, please contact me  
+Note that the required 'Dyn_CIR_VAR.mat' is not included in the folder but here https://drive.google.com/file/d/1jo-PErF5nnqWJ8UUdzZv_OpWcDMesgxB/view?usp=sharing. If you are interested in this work and have any question, please contact me  
 
 ```bash
 Chenglong[dot]Li[at]UGent[dot]be  
