@@ -1,18 +1,17 @@
 ## UWB-Radar-Pedestrian-Tracking 
-The codes are assoicating with a preprint paper https://arxiv.org/pdf/2109.12856.pdf  
+The codes are assoicating with the paper [published](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9677997) or [preprint](https://arxiv.org/pdf/2109.12856.pdf)  
 If you use or refer to the codes, please cite the following paper,  
 ```bash
-@misc{li2021multistatic,  
-      title={Multi-Static UWB Radar-based Passive Human Tracking Using COTS Devices},   
-      author={Chenglong Li and Emmeric Tanghe and Jaron Fontaine and Luc Martens and Jac Romme and Gaurav Singh and Eli De Poorter and Wout Joseph},  
-      year={2021},  
-      eprint={2109.12856},  
-      archivePrefix={arXiv},  
-      primaryClass={eess.SP}  
-} 
+@ARTICLE{Li2022UWBradar,
+  author={Li, Chenglong and Tanghe, Emmeric and Fontaine, Jaron and Martens, Luc and Romme, Jac and Singh, Gaurav and De Poorter, Eli and Joseph, Wout},
+  journal={IEEE Antennas and Wireless Propagation Letters}, 
+  title={Multi-Static UWB Radar-based Passive Human Tracking Using COTS Devices}, 
+  year={2022},
+  pages={1-5},
+  doi={10.1109/LAWP.2022.3141869}}
 ```
 ## Description
-The whole dataset were collected along a long single trajectory. The codes file contains the three-case consecutive trajectory partitioning for training and predicting. The baisc idea of this work is to estimated the reflected ToFs from the accumulated channel impulse response (CIR) or the corresponding variance based on two proposed CNN models. Then a particle filter algorithm is adopted for the pedestrian tracking. Get access to more technical details via the [paper](https://arxiv.org/pdf/2109.12856.pdf).  
+The whole dataset were collected along a long single trajectory. The codes file contains the three-case consecutive trajectory partitioning for training and predicting. The baisc idea of this work is to estimated the reflected ToFs from the accumulated channel impulse response (CIR) or the corresponding variance based on two proposed CNN models. Then a particle filter algorithm is adopted for the pedestrian tracking. Get access to more technical details via the [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9677997).  
 This work is implemented based on the open-access dataset of a published paper, you can find more details about the dataset via the paper or the link below  
 
 ```bash
